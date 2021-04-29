@@ -49,3 +49,8 @@ LogisticRegression視覺化
 下兩圖為不同的gamma對SVM分類效果的影響
 <p align="center"><img width="40%" src="svm3.png" /></p>
 <p align="center"><img width="40%" src="svm4.png" /></p>
+
+## Decision tree
+
+下方展示決策樹的基本分類性能
+<p align="center"><img width="40%" src="dt.png" /></p>
