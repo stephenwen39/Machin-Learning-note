@@ -35,3 +35,17 @@ LogisticRegression視覺化
 
 正規化的影響
 <p align="center"><img width="40%" src="normal.png" /></p>
+
+
+## SVM
+
+下方展示SVM在不同資料集與不同參數下的呈現
+此圖展示其於鳶尾花資料集的一般分類
+<p align="center"><img width="40%" src="svm1.png" /></p>
+
+此圖展現其於亂數資料集的非線性分類
+<p align="center"><img width="40%" src="svm2.png" /></p>
+
+下兩圖為不同的gamma對SVM分類效果的影響
+<p align="center"><img width="40%" src="svm3.png" /></p>
+<p align="center"><img width="40%" src="svm4.png" /></p>
