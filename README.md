@@ -7,7 +7,7 @@
 ## Perceptron classifier
 
 為一簡單的神經元線性分類器，下圖為其分類效果
-<p align="center"><img width="60%" src="Perceptron.png" /></p>
+<p align="center"><img width="50%" src="Perceptron.png" /></p>
 
 ## Adaline classifier
 
