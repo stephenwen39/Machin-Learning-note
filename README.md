@@ -3,7 +3,7 @@
 
 於2021/4/29上傳至此
 
-# 此機器學習筆記內容除了「為了方便理解所加的中文註解與少部分程式碼」之外皆非我自創，大部分內容來自Python machine learning 3edition 一書
+# 此機器學習筆記內容除了「為了方便理解所加的中文註解與少部分程式碼」之外皆非我自創，大部分內容來自Python machine learning 3 edition 一書
 
 接下來的範例皆以"Anderson's Iris data set“為資料輸入
 
