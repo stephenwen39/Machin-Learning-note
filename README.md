@@ -4,12 +4,12 @@
 
 接下來的範例皆以"Anderson's Iris data set“為資料輸入
 
-# Perceptron classifier
+## Perceptron classifier
 
 為一簡單的神經元線性分類器，下圖為其分類效果
 <p align="center"><img width="40%" src="Perceptron.png" /></p>
 
-# Adaline classifier
+## Adaline classifier
 
 為Perceptron classifier的改進
 
