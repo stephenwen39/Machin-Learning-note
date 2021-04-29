@@ -32,3 +32,6 @@
 
 LogisticRegression視覺化
 <p align="center"><img width="40%" src="LogisticRegression1.png" /></p>
+
+正規化的影響
+<p align="center"><img width="40%" src="normal.png" /></p>
