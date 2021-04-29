@@ -22,3 +22,13 @@
 可見收斂效率快速增長
 
 <p align="center"><img width="40%" src="adalineSGD.png" /></p>
+
+## LogisticRegression
+
+在展現決策邊界之後，採用LogisticRegression分類器的多元分類功能
+
+決策邊界圖
+<p align="center"><img width="40%" src="decision_regions.png" /></p>
+
+LogisticRegression視覺化
+<p align="center"><img width="40%" src="LogisticRegression1.png" /></p>
