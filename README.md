@@ -4,14 +4,21 @@
 
 接下來的範例皆以"Anderson's Iris data set“為資料輸入
 
-Perceptron classifier
+# Perceptron classifier
 
 為一簡單的神經元線性分類器，下圖為其分類效果
 <p align="center"><img width="40%" src="Perceptron.png" /></p>
 
-Adaline classifier
+# Adaline classifier
 
 為Perceptron classifier的改進
 
 使用批次梯度下降(batch gradient descent)為收斂方式
 <p align="center"><img width="40%" src="adaline.png" /></p>
+
+
+在Adaline classifier的基礎上採用隨機梯度下降(stochastic gradient descent)
+
+可見收斂效率快速增長
+
+<p align="center"><img width="40%" src="adalineSGD.png" /></p>
